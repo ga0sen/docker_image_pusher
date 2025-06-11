@@ -5,4 +5,3 @@ fastgpt-sandbox:v4.9.11
 fastgpt-mcp_server:v4.9.11
 fastgpt:v4.9.11
 aiproxy:v0.1.7
-pgvector:0.8.0-pg15
