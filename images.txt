@@ -1,1 +1,2 @@
-qwenllm/qwen:3-cu124
+qwenllm/qwen3-omni:latest
+ai/qwen3:4B-UD-Q8_K_XL
