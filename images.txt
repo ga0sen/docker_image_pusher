@@ -1,2 +1,1 @@
-qwenllm/qwen3-omni:latest
-ai/qwen3:4B-UD-Q8_K_XL
+cosyvoice:v3.0
